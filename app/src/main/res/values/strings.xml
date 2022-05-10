@@ -1,0 +1,25 @@
+<resources>
+	<string name="app_name">SubmissionIntermediate</string>
+	<string name="tempText">Null Temp</string>
+	<string name="welcome_to_dicoding_platform">Welcome to Dicoding Platform</string>
+	<string name="welcome_message">This is a safe place where programmers can share their stories and ideas without hassle</string>
+	<string name="login">Login</string>
+	<string name="register">REGISTER</string>
+	<string name="author">Written by Mauamadou Drammeh</string>
+	<string name="welcome_message_register">Welcome to dicoding \n Please take your time and become one of us</string>
+	<string name="user_email">User Email</string>
+	<string name="welcome_to_dicoding">Welcome to Dicoding!</string>
+	<string name="welcome_dicoding_description">Please take your time and listen to the stories and remarks of our users</string>
+	<string name="upload">Upload</string>
+	<string name="description">Description</string>
+	<string name="galeri">Gallery</string>
+	<string name="camera">Camera</string>
+	<string name="pciture_taken">The Photo Taken</string>
+	<string name="posted_by">Posted By:</string>
+	<string name="user_profile">User Profile</string>
+	<string name="user_description">Description:</string>
+	<string name="keluar">Keluar</string>
+	<string name="add_story_button">Add Story Button</string>
+	<string name="view_map_stories">view map stories</string>
+	<string name="title_activity_maps">MapsActivity</string>
+</resources>
